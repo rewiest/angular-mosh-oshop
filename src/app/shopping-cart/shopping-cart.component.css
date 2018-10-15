@@ -1,0 +1,19 @@
+
+.thumbnail {
+  width: 80px;
+  height: 80px;
+  border-radius: 100%;
+  background-size: cover;
+}
+
+.quantity {
+  width: 230px;
+}
+
+.price {
+  width: 200px;
+}
+
+.card {
+  margin-bottom: 80px;
+}
